@@ -8,5 +8,6 @@ This program calculates sum and average of two numbers
 Download the zip file, extract it and run build.
 
 ## Usage
+Enter two numbers and press submit button.
 
 ## Contribution
